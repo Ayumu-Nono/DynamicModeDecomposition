@@ -1,1 +1,4 @@
 myvenv/
+dogbone_dumbbell_A12/
+*csv
+__pycache__/
